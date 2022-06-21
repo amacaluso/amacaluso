@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Antonio 👋
 
 <!--
 **amacaluso/amacaluso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Hi there, I'm Luca 🙂👋
 
 <!--
+#### Hi there, I'm Luca 🙂👋
+
 **clissa/clissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
