@@ -1,5 +1,8 @@
 ### Hi there, I am Antonio 👋
 
+## Current Activity
+🎓 I'm a **Senior Researcher** ar the German Research Center for Artificial Intelligence (DFKI).
+
 <!--
 **amacaluso/amacaluso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,10 +33,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-## Current Activity
-🎓 I'm a **Senior Researcher** ar the German Research Center for Artificial Intelligence (DFKI).
+
+
 
 📝 Projects I've worked on include:
   - Designing and Implementation of Quantum Algorithms for Imtransition from human-based to AI-assisted detection and counting of neuronal cells in fluorescent microscopy images 🔬 📸
@@ -50,6 +52,8 @@ Here are some ideas to get you started:
   - Predictive Maintenance for autovehicles 🔧 ⚙️
 
 ---
+
+-->
 
 ## Interests
 
