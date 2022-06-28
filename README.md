@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://scholar.google.com/citations?user=Z2R5HuEAAAAJ&hl=it">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google_scholar.svg" alt="Luca Clissa's Google Scholar Profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google_scholar.svg" alt="Antonio Macaluso's Google Scholar Profile" height="30" width="30">
   </a>
   
-  <a href="https://orcid.org/0000-0002-4876-5200">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/orcid.svg" alt="Luca Clissa's Orcid Profile" height="30" width="30">
+  <a href="https://orcid.org/0000-0002-1348-250X">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/orcid.svg" alt="Antonio Macaluso's Orcid Profile" height="30" width="30">
   </a>
  
 </p>
