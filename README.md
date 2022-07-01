@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 🤔 Things I'm curious about:
   - Quantum AI
+  - Artificial Intelligence
   - Quantum Computing
   - Machine Learning
 
