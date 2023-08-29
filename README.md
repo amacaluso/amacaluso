@@ -1,7 +1,7 @@
 ### Hi there, I am Antonio 👋
 
 ## Current Activity
-🎓 I'm a **Senior Researcher** at the German Research Center for Artificial Intelligence (DFKI).
+🎓 I'm a **Senior Researcher** at the German Research Center for Artificial Intelligence (DFKI) where I lead the Quantum Artificial Intelligence unit within the Intelligent Information Systems research team.
 
 <!--
 **amacaluso/amacaluso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
